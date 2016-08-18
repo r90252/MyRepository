@@ -7,13 +7,14 @@ public class VariableSize {
 	 //byte var2 = 200;
 	 //byte var2 = 200;
 	 
-	 int var3 = 200;
-	 byte var4 = (byte)var3;
+	 byte var3 = 10;
+	 int var4 = var3;
 	 System.out.println(var4);
 	 
 	 int var5 = 200000;
 	 char var6 = (char) var5;
 	 System.out.println(var6);
+	 
 	}
 
 }
